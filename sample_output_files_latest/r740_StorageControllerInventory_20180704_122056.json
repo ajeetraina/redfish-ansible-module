@@ -1,0 +1,27 @@
+{
+    "ansible_facts": {
+        "storage_controller": {
+            "entries": [
+                {
+                    "Health": "OK", 
+                    "Name": "PERC H740P Adapter "
+                }, 
+                {
+                    "Health": null, 
+                    "Name": "Lewisburg SATA Controller [AHCI mode]"
+                }, 
+                {
+                    "Health": "OK", 
+                    "Name": "BOSS-S1"
+                }, 
+                {
+                    "Health": null, 
+                    "Name": "Lewisburg SSATA Controller [AHCI mode]"
+                }
+            ], 
+            "ret": true
+        }
+    }, 
+    "changed": false, 
+    "failed": false
+}

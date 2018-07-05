@@ -1,0 +1,30 @@
+{
+    "ansible_facts": {
+        "system": {
+            "entries": {
+                "AssetTag": "", 
+                "BiosVersion": "1.3.7", 
+                "BootSourceOverrideMode": "UEFI", 
+                "CpuCount": 2, 
+                "CpuHealth": "OK", 
+                "CpuModel": "Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz", 
+                "HostName": "red4.oseadc.local", 
+                "Manufacturer": "Dell Inc.", 
+                "MemoryHealth": "OK", 
+                "MemoryTotal": 119.209344, 
+                "Model": "PowerEdge R740", 
+                "PartNumber": "07X9K0A02", 
+                "PowerState": "On", 
+                "SerialNumber": "CNFCP0077S00FM", 
+                "ServiceTag": "7FFG0M2", 
+                "Status": "OK", 
+                "SystemType": "Physical", 
+                "TPMInterfaceType": "TPM2_0", 
+                "TPMStatus": "Disabled"
+            }, 
+            "ret": true
+        }
+    }, 
+    "changed": false, 
+    "failed": false
+}
